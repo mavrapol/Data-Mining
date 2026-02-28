@@ -1,0 +1,8 @@
+column,most_frequent_value,count
+Flow ID,136.162.16.0-255.255.255.1-0-0-0,59
+Src IP,192.168.1.70,48942
+Dst IP,192.168.1.90,48927
+Timestamp,01/01/1970 04:15:07 AM,11881
+Label,Malicious,49778
+Traffic Type,Bruteforce,35172
+Traffic Subtype,Bruteforce DNS,22179
